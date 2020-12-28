@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Software Craftsman based in Malmö, Sweden.
+I'm a [software craftsman](https://manifesto.softwarecraftsmanship.org/)  based in Malmö, Sweden.
 
-<a href= "https://www.linkedin.com/in/mphomphego/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/mphomphego"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+[![LinkedIn](https://img.icons8.com/material-outlined/30/000000/linkedin.png)](https://www.linkedin.com/in/tobiasericsson)
+[![Twitter](https://img.icons8.com/material-outlined/30/000000/twitter.png)](https://twitter.com/teericsson)
+[![Twitter](https://img.icons8.com/material-outlined/30/000000/home.png)](https://tobias-ericsson.github.io)
 
 <!--
 **tobias-ericsson/tobias-ericsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
