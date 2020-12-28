@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm: 
-* an independent contractor 
-* owner of [Powdrsoft Solutions AB](https://powdrsoft.com)
-* a [software craftsman](https://manifesto.softwarecraftsmanship.org/)  
-* based in Malmö, Sweden.
+I'm an independent contractor and owner of [Powdrsoft Solutions AB](https://powdrsoft.com).
 
+I'm also a [software craftsman](https://manifesto.softwarecraftsmanship.org/)  based in Malmö, Sweden.
 
 [![LinkedIn](https://img.icons8.com/fluent/30/000000/linkedin.png)](https://www.linkedin.com/in/tobiasericsson)
 [![Twitter](https://img.icons8.com/fluent/30/000000/twitter.png)](https://twitter.com/teericsson)
